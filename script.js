@@ -10,3 +10,7 @@ function getDPI() { //check dpi
     }
     return !!(window.innerWidth > 1200 && dpi.offsetHeight < 200);
 }
+
+if (getDPI()) {
+    doSomething;
+}
