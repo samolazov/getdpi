@@ -1,6 +1,6 @@
 # getdpi
 A very simple script of getting screen's DPI.
-I found the idea somewhere in Internet, changed a bit for my purposes, and save here to not forget.
+I found the idea somewhere in Internet, changed a bit for my purposes, and saved here to not forget.
 
 How it works:
 
